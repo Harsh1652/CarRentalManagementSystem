@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.modal-content {
+    border-radius: 15px;
+}
+
+.form-section {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    padding: 12px 15px;
+}
+
+/* Navbar custom styles */
+.navbar {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.nav-link {
+    font-size: 1.1rem;
+}
+
+.navbar-brand {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
